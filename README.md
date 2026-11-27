@@ -221,6 +221,9 @@ Generated outputs include:
 - Current manipulation experiments focus on a single cube and a fixed pick-and-place task.
 - Simulation results do not establish sim-to-real transfer performance.
 
+<img width="817" height="535" alt="image" src="https://github.com/user-attachments/assets/87cdf7ca-25ee-4781-b405-b4b3425bdf14" />
+<img width="800" height="580" alt="image" src="https://github.com/user-attachments/assets/1a7adae4-ada3-4e28-8ec4-e2a6e8038bf7" />
+<img width="787" height="740" alt="image" src="https://github.com/user-attachments/assets/bf290653-82ff-4463-b2c0-4165feb971e6" />
 
 
 ## Author
