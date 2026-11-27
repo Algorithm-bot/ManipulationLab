@@ -1,0 +1,174 @@
+{
+    "total_experiments": 225,
+    "overall_success_rate": 1.0,
+    "overall_constraint_compliance_rate": 1.0,
+    "overall_mean_final_error_m": 0.0005059713059369612,
+    "total_joint_limit_violations": 0,
+    "configuration_results": [
+        {
+            "elbow_kp": 8,
+            "control_noise_std": 0.0,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.00035238328873933914,
+            "max_final_error": 0.0007943629390861611,
+            "mean_elbow_velocity": 1.3217181728191525,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 8,
+            "control_noise_std": 0.005,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.000524682879532382,
+            "max_final_error": 0.001396580488430709,
+            "mean_elbow_velocity": 1.329382081722702,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 8,
+            "control_noise_std": 0.01,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0007687826790484885,
+            "max_final_error": 0.00243756656169618,
+            "mean_elbow_velocity": 1.3341042031220838,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 10,
+            "control_noise_std": 0.0,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0003666706082457815,
+            "max_final_error": 0.000793943312494703,
+            "mean_elbow_velocity": 1.330442184884966,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 10,
+            "control_noise_std": 0.005,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0005005364896793605,
+            "max_final_error": 0.0015610150502866308,
+            "mean_elbow_velocity": 1.3376845336879037,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 10,
+            "control_noise_std": 0.01,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.000679989402018092,
+            "max_final_error": 0.0014831812317460719,
+            "mean_elbow_velocity": 1.3516331881154164,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 12,
+            "control_noise_std": 0.0,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.00037473634342144745,
+            "max_final_error": 0.0007987356484583922,
+            "mean_elbow_velocity": 1.334834349442775,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 12,
+            "control_noise_std": 0.005,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0005443919134317138,
+            "max_final_error": 0.0013275946699472922,
+            "mean_elbow_velocity": 1.3492720675219774,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 12,
+            "control_noise_std": 0.01,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0004926342219017167,
+            "max_final_error": 0.0009040495390392909,
+            "mean_elbow_velocity": 1.357096752261515,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 14,
+            "control_noise_std": 0.0,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.00037933074499117844,
+            "max_final_error": 0.0008037976071422,
+            "mean_elbow_velocity": 1.3372511828709872,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 14,
+            "control_noise_std": 0.005,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0004131256877990907,
+            "max_final_error": 0.0008099611706542533,
+            "mean_elbow_velocity": 1.3494739221584695,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 14,
+            "control_noise_std": 0.01,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.000576874799281579,
+            "max_final_error": 0.0010171753380200336,
+            "mean_elbow_velocity": 1.3669215338967413,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 16,
+            "control_noise_std": 0.0,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0003819974268416571,
+            "max_final_error": 0.0008080879519451758,
+            "mean_elbow_velocity": 1.3386689375488663,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 16,
+            "control_noise_std": 0.005,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0004670926264625191,
+            "max_final_error": 0.0010027771640190248,
+            "mean_elbow_velocity": 1.3546257858996513,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        },
+        {
+            "elbow_kp": 16,
+            "control_noise_std": 0.01,
+            "experiments": 15,
+            "success_rate": 1.0,
+            "mean_final_error": 0.0007663404776600713,
+            "max_final_error": 0.002381435994391123,
+            "mean_elbow_velocity": 1.3730621937209113,
+            "joint_limit_violations": 0,
+            "constraint_compliance_rate": 1.0
+        }
+    ]
+}

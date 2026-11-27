@@ -1,0 +1,11 @@
+{
+    "parameter": "elbow_motor_kp",
+    "reference_kp": 14.0,
+    "estimated_kp": 13.99657752836474,
+    "absolute_estimation_error": 0.0034224716352593276,
+    "baseline_kp": 10.0,
+    "baseline_mse": 0.00035565249822221633,
+    "optimized_mse": 2.515192998098162e-07,
+    "optimizer_success": true,
+    "reference_samples": 2000
+}

@@ -1,0 +1,49 @@
+{
+    "input_file": "telemetry.csv",
+    "total_input_rows": 25000,
+    "valid_output_rows": 25000,
+    "removed_rows": 0,
+    "joint_limit_violations": 0,
+    "velocity_limit_violations": 0,
+    "duplicate_timestamps": 0,
+    "non_finite_values": 0,
+    "sampling_analysis": [
+        {
+            "trial_id": 1,
+            "mean_interval_seconds": 0.0020000000000000018,
+            "min_interval_seconds": 0.0019999999999980034,
+            "max_interval_seconds": 0.0020000000000024443,
+            "irregular_intervals": 0
+        },
+        {
+            "trial_id": 2,
+            "mean_interval_seconds": 0.0020000000000000018,
+            "min_interval_seconds": 0.0019999999999980034,
+            "max_interval_seconds": 0.0020000000000024443,
+            "irregular_intervals": 0
+        },
+        {
+            "trial_id": 3,
+            "mean_interval_seconds": 0.0020000000000000018,
+            "min_interval_seconds": 0.0019999999999980034,
+            "max_interval_seconds": 0.0020000000000024443,
+            "irregular_intervals": 0
+        },
+        {
+            "trial_id": 4,
+            "mean_interval_seconds": 0.0020000000000000018,
+            "min_interval_seconds": 0.0019999999999980034,
+            "max_interval_seconds": 0.0020000000000024443,
+            "irregular_intervals": 0
+        },
+        {
+            "trial_id": 5,
+            "mean_interval_seconds": 0.0020000000000000018,
+            "min_interval_seconds": 0.0019999999999980034,
+            "max_interval_seconds": 0.0020000000000024443,
+            "irregular_intervals": 0
+        }
+    ],
+    "issues": [],
+    "validation_passed": true
+}

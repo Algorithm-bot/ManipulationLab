@@ -1,0 +1,8 @@
+{
+    "elbow_kp": 8.0,
+    "control_noise_std": 0.0,
+    "mean_final_error_m": 0.00035238328873933914,
+    "max_final_error_m": 0.0007943629390861611,
+    "success_rate": 1.0,
+    "constraint_compliance_rate": 1.0
+}
