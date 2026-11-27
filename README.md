@@ -221,18 +221,9 @@ Generated outputs include:
 - Current manipulation experiments focus on a single cube and a fixed pick-and-place task.
 - Simulation results do not establish sim-to-real transfer performance.
 
-## Future Work
 
-- Integrate ROS 2 for robotics middleware and communication.
-- Introduce randomized object positions and orientations.
-- Evaluate sensor noise and external force disturbances.
-- Develop more advanced grasp planning and contact-aware control.
-- Explore trajectory optimization and motion planning.
-- Investigate sim-to-real transfer using physical robot measurements.
-- Extend benchmarking to multiple objects and manipulation tasks.
 
 ## Author
 
 **Sahil Sawant**
 
-GitHub: [Algorithm-bot](https://github.com/Algorithm-bot)
